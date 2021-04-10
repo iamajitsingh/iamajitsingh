@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Web Development and Database Management.
 - 🌱 I’m currently learning No Sql DB, RNN, NLP and revising Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on NLP/Deep Learning Projects or Fun Web-Dev projects.
-- 📫 How to reach me (+91) 7977-476589, iamajit41@gmail.com.
+- 📫 How to reach me iamajit41@gmail.com.
 
 <!---
 iamajitsingh/iamajitsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
