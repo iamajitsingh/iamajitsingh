@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamajitsingh.
-- 👀 I’m interested in Machine Learning, Image Processing, Web Development and Database Management.
+- 👀 I’m interested in Machine Learning, Web Development and Database Management.
 - 🌱 I’m currently learning React.js, Redux.
 - 💞️ I’m looking to collaborate on Deep Learning Projects or Fun Web-Dev projects.
 - 📫 How to reach me iamajit41@gmail.com. 
