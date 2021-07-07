@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamajitsingh.
 - 👀 I’m interested in Machine Learning, Image Processing, Web Development and Database Management.
-- 🌱 I’m currently working on a Research Internship in the domain of Machine Learning.
-- 💞️ I’m looking to collaborate on Image Processing/Deep Learning Projects or Fun Web-Dev projects.
+- 🌱 I’m currently learning React.js, Redux.
+- 💞️ I’m looking to collaborate on Deep Learning Projects or Fun Web-Dev projects.
 - 📫 How to reach me iamajit41@gmail.com. 
 
 <!---
