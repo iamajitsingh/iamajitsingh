@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamajitsingh.
-- 👀 I’m interested in Machine Learning, Web Development and Database Management.
-- 🌱 I’m currently learning various topics in Machine Learning.
-- 💞️ I’m looking to collaborate on Deep Learning Projects or Fun Web-Dev projects.
+- 👀 I’m interested in Web Development, Machine Learning and Database Management.
+- 🌱 I’m currently learning Social Networks, Natural Language Processing.
+- 💞️ I’m looking to collaborate on Fun Web-Dev projects.
 - 📫 How to reach me iamajit41@gmail.com. 
 
 <!---
