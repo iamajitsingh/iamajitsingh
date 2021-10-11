@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **iamajit41@gmail.com**  
   
-- ⚡ Fun fact **I am pursuing my B.Tech in Electronics & Communication Engineering from Indian Institute of Information Technology, (IIIT) Guwahati**
+- ⚡ Fun fact **I am pursuing my B.Tech in Electronics & Communication Engineering from the Indian Institute of Information Technology, (IIIT) Guwahati**
 
 
 
@@ -62,7 +62,7 @@
 
 <br>
 <footer align='center'>Credits<br>
-<a href = 'https://unsplash.com/photos/BfrQnKBulYQ'>Unsplash</a>
+<a href = 'https://unsplash.com/photos/BfrQnKBulYQ'>Unsplash</a>,
  <a href='https://github.com/rahulbanerjee26/'>Rahul Banerjee</a>,
 <a href='https://github.com/rahuldkjain'>Rahul Jain</a></p>
 </footer>
