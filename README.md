@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **iamajit41@gmail.com**  
   
-- ⚡ Fun fact **I am pursuing my B.Tech in Electronics & Communication Engineering from the Indian Institute of Information Technology, (IIIT) Guwahati**
+- ⚡ Fun fact **I am pursuing my B.Tech in Electronics & Communication Engineering from Indian Institute of Information Technology, (IIIT) Guwahati**
 
 
 
@@ -37,7 +37,7 @@
 <a href= https://github.com/iamajitsingh?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/iamajitsingh?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/iamajitsingh?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
