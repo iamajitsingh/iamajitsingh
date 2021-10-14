@@ -2,13 +2,9 @@
 <img width="100%" height = "250px" src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-
-<h2> Hi 👋, I'm Ajit! <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h1>  Hi, I'm Ajit! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h4 align="center">An aspiring Software Development Engineer from Mumbai, India!</h3>  
   
 - 🌱 I’m currently learning **Social Networks, Natural Language Processing**  
   
@@ -61,8 +57,3 @@
 
 
 <br>
-<footer align='center'>Credits<br>
-<a href = 'https://unsplash.com/photos/BfrQnKBulYQ'>Unsplash</a>,
- <a href='https://github.com/rahulbanerjee26/'>Rahul Banerjee</a>,
-<a href='https://github.com/rahuldkjain'>Rahul Jain</a></p>
-</footer>
