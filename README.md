@@ -2,24 +2,27 @@
 <img width="100%" height = "250px" src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="cover" />
 </div>
 
-<h1 align="center">  Hi, I'm Ajit! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<img align="middle" src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C1F&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ajit; I+Love+To+Build+Projects+🛠;">
+</p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - 🌱 I’m currently learning **Social Networks, Natural Language Processing**  
   
 - 👯 I’m looking to collaborate on **Fun Web-Dev Projects, Technical Articles**   
-- 📝 I write articles on [https://helloml.org/author/ajit_iiitg/](https://helloml.org/author/ajit_iiitg/)  
-  
+- 
+- 📝 I have written articles on [https://helloml.org/author/ajit_iiitg/](https://helloml.org/author/ajit_iiitg/)  
+ 
 - 📫 How to reach me **iamajit41@gmail.com**  
   
 - ⚡ Fun fact **I am pursuing my B.Tech in Electronics & Communication Engineering from the Indian Institute of Information Technology, (IIIT) Guwahati**
 
 
+- 💬 Talk to me about **Django, Web-Dev, Open Source opportunities**
 
-- 💬 Talk to me about **Django, Web-Dev, Open Source opportunities** 
-
-<h2 align="center"> Tools/Tech <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <div align="center">
 <a href= https://github.com/iamajitsingh?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
@@ -37,16 +40,14 @@
 <a href= https://github.com/iamajitsingh?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 </div>
 
+<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div align="center">
 <a href = 'https://discordapp.com/users/SHY#7766/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a> &nbsp;
 <a href = 'https://www.linkedin.com/in/ajit-a-singh-'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href = 'https://www.github.com/iamajitsingh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>
-
-<h2 align="center"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
+<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamajitsingh&show_icons=true&count_private=true&theme=react" />
 
@@ -57,6 +58,7 @@
 
   
  </div>
+<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
  
 <h2 align="center"> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
@@ -64,6 +66,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 </div>
+<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 
 
 <br>
