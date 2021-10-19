@@ -4,7 +4,7 @@
 
 <img align="middle" src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C1F&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ajit; I+Love+To+Build+Projects+🛠;">
+<img src ="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23FF8C1F&size=30&center=true&vCenter=true&width=550&height=70&&lines=Hi!+👋+I'm+Ajit;I+Love+To+Build+💻+Projects!" />
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -66,8 +66,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 </div>
-<img src = "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-
-
 <br>
