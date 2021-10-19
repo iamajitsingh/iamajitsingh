@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Social Networks, Natural Language Processing**  
   
 - 👯 I’m looking to collaborate on **Fun Web-Dev Projects, Technical Articles**   
-- 
+
 - 📝 I have written articles on [https://helloml.org/author/ajit_iiitg/](https://helloml.org/author/ajit_iiitg/)  
  
 - 📫 How to reach me **iamajit41@gmail.com**  
