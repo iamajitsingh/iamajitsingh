@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- 🌱 I’m currently learning **Social Networks, Natural Language Processing**  
+- 🌱 I’m currently learning **Data Structures and Algorithms, Programming using C++ **  
   
 - 👯 I’m looking to collaborate on **Fun Web-Dev Projects, Technical Articles**   
 
