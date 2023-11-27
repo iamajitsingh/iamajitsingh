@@ -13,7 +13,7 @@
   
 - 👯 I’m looking to collaborate on **Fun Web-Dev Projects, Technical Articles**   
 
-- 📝 I have written articles on [https://helloml.org/author/ajit_iiitg/](https://helloml.org/author/ajit_iiitg/)  
+- 📝 I have written articles for (now defunct) helloml.org, link to repo: [https://github.com/iamajitsingh/helloMLArticles.git](https://github.com/iamajitsingh/helloMLArticles.git)  
  
 - 📫 How to reach me **iamajit41@gmail.com**  
   
